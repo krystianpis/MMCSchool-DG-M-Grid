@@ -2,7 +2,7 @@
 
 ## Purpose of this project
 
-This project is lesson from MMC School course part 3 website project based on Grid - DM & G Corporation.
+This project is lesson from MMC School course part 3 website project based on Grid - DG&M Corporation.
 
 ## Future plans
 
