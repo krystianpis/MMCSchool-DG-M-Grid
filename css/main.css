@@ -404,6 +404,10 @@ h1.company-name {
   border-top: 1px solid #191919;
   text-align: center;
 }
+.footer__bottom-text-link {
+  color: #fff;
+  text-decoration: none;
+}
 
 @keyframes pulse {
   from {

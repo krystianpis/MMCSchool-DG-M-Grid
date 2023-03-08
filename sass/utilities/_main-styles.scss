@@ -466,4 +466,9 @@ h1.company-name {
 	padding: 3em 1em;
 	border-top: 1px solid $darker;
 	text-align: center;
+
+	&__bottom-text-link {
+		color: $white;
+		text-decoration: none;
+	}
 }
